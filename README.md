@@ -11,3 +11,7 @@ TODO:
 - [ ] add api to create a new task
 - [ ] add api to update a task
 - [ ] add api to delete a task
+- [ ] migrate app to express.js
+- [ ] migrate db to mongodb
+- [ ] add authentication
+- [ ] add authorization
